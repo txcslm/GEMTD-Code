@@ -8,7 +8,9 @@
 [![Entitas](https://img.shields.io/badge/Entitas-ECS-green?style=for-the-badge)](https://github.com/sschmid/Entitas-CSharp)
 [![Zenject](https://img.shields.io/badge/Zenject-DI-orange?style=for-the-badge)](https://github.com/modesttree/Zenject)
 
-**🎮 [Играть на itch.io](https://stoneprophet.itch.io/gemtd) | 📖 [Архитектура](#-архитектура-проекта) | 🔧 [Реализация](#-примеры-реализации-архитектурных-паттернов)**
+### 🎮 [Играть на itch.io](https://stoneprophet.itch.io/gemtd) 
+
+**| 📖 [Архитектура](#-архитектура-проекта) | 🔧 [Реализация](#-примеры-реализации-архитектурных-паттернов)**
 
 *Исходный код tower defense игры, построенной на Entity Component System (Entitas) с использованием MVP паттерна для UI и Dependency Injection*
 
